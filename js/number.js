@@ -49,15 +49,5 @@ console.log(aMaiusculo)
 console.log(tique)
 console.log(hiragana)
 
-// Tipo Booleano
 
-const primeiroNumero1 = 5;
-const segundoNumero2 = 10;
 
-// quando colocamos === fazemos uma verificação nós comparamos as duas const, se não fosse dividido por 2 seria false
-console.log(primeiroNumero1 === segundoNumero2/2);
-
-const texto3 = "alura";
-const texto4 = "A";
-
-console.log(texto3 === texto4);
